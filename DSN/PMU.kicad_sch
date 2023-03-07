@@ -2020,8 +2020,8 @@
     (effects (font (size 1.27 1.27) bold) (justify left bottom))
     (uuid 5f3a6215-9aa2-4e50-8fcd-bc5d28b3ef10)
   )
-  (text "      	Vout(Vin_Vout)\nL =	________________\n	(I△L * Iout) * Fsw * Vin"
-    (at 20.32 262.89 0)
+  (text "      	Vout(Vin-Vout)\nL =	--------------\n	(I△L * Iout) * Fsw * Vin"
+    (at 19.05 262.89 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 79298ecf-854d-433f-8274-f69d74306cfe)
   )
@@ -2050,7 +2050,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid c9662d73-473b-47c0-b0b3-98d8d8e4dbae)
   )
-  (text "      	3.3(5_3.3)\nL =	_____________\n	(0.3 * 2) * 2E6 * 5"
+  (text "      	3.3(5-3.3)\nL =	--------------\n	(0.3 * 2) * 2E6 * 5"
     (at 20.32 271.78 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid dcd0bbc1-6bde-4651-9ab0-11f0e65d5a70)
@@ -3071,8 +3071,8 @@
     (pin "21" (uuid e1833a38-e51a-44fb-85ab-b779467b2ccf))
     (pin "22" (uuid f5a8269a-5365-47aa-a212-7d140f1b0b02))
     (pin "23" (uuid 85bc4c93-feb3-4921-b3c7-b5a39b724012))
-    (pin "24" (uuid 9ac72c63-8fb5-44ab-8ac0-907057c4b3d1))
-    (pin "24" (uuid 9ac72c63-8fb5-44ab-8ac0-907057c4b3d1))
+    (pin "24" (uuid 9ac72c63-8fb5-44ab-8ac0-907057c4b3d3))
+    (pin "24" (uuid 9ac72c63-8fb5-44ab-8ac0-907057c4b3d3))
     (pin "26" (uuid 2d2683ec-2014-47fe-a993-22fe29b78acd))
     (pin "27" (uuid 413c05d5-34a5-495e-b494-a4b1faab9314))
     (pin "28" (uuid d849afd7-12c7-4fda-860b-0c29ea315fd1))

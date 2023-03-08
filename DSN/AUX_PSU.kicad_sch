@@ -4,6 +4,13 @@
 
   (paper "A4")
 
+  (title_block
+    (title "3V3 Aux PSU")
+    (date "2023-03-07")
+    (rev "A")
+    (comment 1 "Designed by DragonEnjouer :3")
+  )
+
   (lib_symbols
     (symbol "Device:C_Small" (pin_numbers hide) (pin_names (offset 0.254) hide) (in_bom yes) (on_board yes)
       (property "Reference" "C" (id 0) (at 0.254 1.778 0)
@@ -661,10 +668,13 @@
     (uuid 8d1d187b-31f4-4e0b-85d9-e3543b4ad430)
     (property "Reference" "U?" (id 0) (at 128.27 81.28 0))
     (property "Value" "TPS62A02A" (id 1) (at 128.27 83.82 0))
-    (property "Footprint" "" (id 2) (at 144.78 92.71 0)
+    (property "Footprint" "Package_TO_SOT_SMD:SOT-563" (id 2) (at 144.78 92.71 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (id 3) (at 144.78 92.71 0)
+    (property "Datasheet" "https://www.ti.com/lit/ds/symlink/tps62a02a.pdf" (id 3) (at 144.78 92.71 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "MFR PN" "TPS62A02ADRLR" (id 4) (at 119.38 101.6 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 6b3dcbf0-a377-4636-9ad6-1b44f9da4c8d))

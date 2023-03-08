@@ -1,4 +1,4 @@
-21698525023655052
+21703559785959251
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -55418,6 +55418,13 @@ wurth wuerth smd inductor
 0
 2
 2
+Inductor_SMD
+XFL4020
+
+
+0
+2
+2
 Inductor_THT
 Choke_EPCOS_B82722A
 Current-Compensated Ring Core Double Chokes, EPCOS, B82722A, 22.3mmx22.7mm, https://en.tdk.eu/inf/30/db/ind_2008/b82722a_j.pdf
@@ -62153,6 +62160,13 @@ DIL DIP PDIP 2.54mm 7.62mm 300mil
 4
 4
 Package_BGA
+24-BGA_6x8mm_5x5mm_ball_1.0mm_pitch
+
+
+0
+28
+28
+Package_BGA
 Analog_BGA-28_4.0x6.25mm_Layout4x7_P0.8mm_Ball0.45mm_Pad0.4
 Analog BGA-28 4.0mm x 6.25mm package, pitch 0.4mm pad, based on https://www.analog.com/media/en/technical-documentation/data-sheets/8063fa.pdf
 BGA 28 0.8
@@ -67556,6 +67570,13 @@ UQFN NoLead
 0
 75
 49
+Package_DFN_QFN
+VDFN-6
+
+
+0
+0
+0
 Package_DFN_QFN
 VDFN-8-1EP_2x2mm_P0.5mm_EP0.9x1.7mm
 8-Lead Very Thin Dual Flatpack No-Lead (LZ) - 2x3x0.9 mm Body [VDFN] (see Microchip Packaging Specification 00000049BS.pdf)

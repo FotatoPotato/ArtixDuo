@@ -4,6 +4,13 @@
 
   (paper "A4")
 
+  (title_block
+    (title "Power Strategy")
+    (date "2023-03-07")
+    (rev "A")
+    (comment 1 "Designed by DragonEnjoyer :3")
+  )
+
   (lib_symbols
   )
 

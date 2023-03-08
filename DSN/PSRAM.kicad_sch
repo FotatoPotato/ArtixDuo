@@ -4,6 +4,13 @@
 
   (paper "A4")
 
+  (title_block
+    (title "PSRAM")
+    (date "2023-03-07")
+    (rev "A")
+    (comment 1 "Designed by DragonEnjoyer :3")
+  )
+
   (lib_symbols
     (symbol "Device:C_Small" (pin_numbers hide) (pin_names (offset 0.254) hide) (in_bom yes) (on_board yes)
       (property "Reference" "C" (id 0) (at 0.254 1.778 0)
@@ -823,10 +830,13 @@
     (uuid 8352b610-daaf-40c2-a292-063247779025)
     (property "Reference" "U?" (id 0) (at 148.59 71.12 0))
     (property "Value" "S80KS5122GABHM020" (id 1) (at 148.59 73.66 0))
-    (property "Footprint" "" (id 2) (at 102.87 153.67 0)
+    (property "Footprint" "Package_BGA:24-BGA_6x8mm_5x5mm_ball_1.0mm_pitch" (id 2) (at 102.87 153.67 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (id 3) (at 102.87 153.67 0)
+    (property "Datasheet" "https://www.infineon.com/dgdl/Infineon-S80KS5122_1.8_V_512-Mbit_HyperBus_Interface_HyperRAM_(Self-Refresh_DRAM)-DataSheet-v01_00-EN.pdf?fileId=8ac78c8c7dc4255f017dd81b77c1088f" (id 3) (at 102.87 153.67 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "MFR PN" "S80KS5122GABHM020" (id 4) (at 139.7 123.19 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "A2" (uuid 6c64f206-bcfc-418e-8774-ebdf69019e8f))

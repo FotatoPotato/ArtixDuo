@@ -422,7 +422,7 @@
       "workbook_filename": ""
     },
     "page_layout_descr_file": "",
-    "plot_directory": "",
+    "plot_directory": "../../../",
     "spice_adjust_passive_values": false,
     "spice_external_command": "spice \"%I\"",
     "subpart_first_id": 65,
@@ -443,7 +443,7 @@
     ],
     [
       "152a643e-3214-4acb-931e-7aa05177691d",
-      "Teensy41 MCU"
+      "RP2040 MCU"
     ],
     [
       "987a745a-c2c0-4be3-94d2-202961b59e0b",

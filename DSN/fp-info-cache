@@ -1,4 +1,4 @@
-21703559785959251
+21705272968331515
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -58498,6 +58498,13 @@ Yellow 5381 Series LED
 0
 2
 2
+Lib
+MOLEX_47272-0001
+
+
+0
+24
+21
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -67575,8 +67582,8 @@ VDFN-6
 
 
 0
-0
-0
+6
+6
 Package_DFN_QFN
 VDFN-8-1EP_2x2mm_P0.5mm_EP0.9x1.7mm
 8-Lead Very Thin Dual Flatpack No-Lead (LZ) - 2x3x0.9 mm Body [VDFN] (see Microchip Packaging Specification 00000049BS.pdf)
